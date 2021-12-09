@@ -5,7 +5,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vlzuiev&count_private=true&theme=tokyonight&showicons=true)]()
 
 
- ![Alt Text](https://media1.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif?cid=ecf05e47f6szll064lfe7n000re2kesx9i9078ydxvrk9x3c&rid=giphy.gif)
+ ![Alt Text](http://tumblr.4gifs.com/post/84766399414/cat-shaq-wiggles)
 
 <!--
 **vlzuiev/vlzuiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
