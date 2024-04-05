@@ -25,7 +25,8 @@
 ## 🌱 I'm Learning
 
 - 📦 Exploring AWS
-- 🖨️ 3D printing 
+- SEO Traffic
+- Paid Traffic
 
 ## 🤝 Let's Connect
 
